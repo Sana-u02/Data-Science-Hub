@@ -1,6 +1,6 @@
 # 📊 Data Science Hub
 
-A collection of end to end data science projects built to practice real world analysis, cleaning, feature engineering and modeling.
+A collection of end to end data science projects built to practice real world analysis, cleaning, feature engineering and modeling. Also created for personal learning and growth.
 
 ## Purpose
 
