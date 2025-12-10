@@ -1,6 +1,9 @@
 # Netflix Data Analysis & Recommendation System
 This project explores the Netflix Movies and TV Shows dataset to uncover patterns and trends. It includes Exploratory Data Analysis (EDA) and a content based recommendation system that suggests similar titles using text features.
 
+<img src="https://github.com/user-attachments/assets/fc4a4724-bb2f-4023-994e-3bdf5c24ddca" width="400" height="300" />
+
+
 ## Dataset
 
 Source: [Netflix Movies and TV Shows dataset (Kaggle)](https://www.kaggle.com/datasets/shivamb/netflix-shows/data)
