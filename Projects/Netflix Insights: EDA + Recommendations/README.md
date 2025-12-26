@@ -3,7 +3,9 @@ This project explores the Netflix Movies and TV Shows dataset to uncover pattern
 
 
 
-<img width="1354" height="883" alt="Screenshot (33)" src="https://github.com/user-attachments/assets/af8742e6-7357-43f0-bb99-bce6ad3eb5b1" />
+<img src="https://github.com/user-attachments/assets/3984b351-0a80-400e-b4f9-d969d58b960f" width="600">
+
+
 
 ## Dataset
 
@@ -12,6 +14,7 @@ Source: [Netflix Movies and TV Shows dataset (Kaggle)](https://www.kaggle.com/da
 
 
 ## Analysis Covered
+
 
 * Content Types: Movies vs TV Shows distribution
 * Top Genres and Categories
